@@ -1,0 +1,15 @@
+{
+  "data": {
+    "compartment-id": "ocid1.compartment.oc1….",
+    "defined-tags": {},
+    "description": "A compartment for cloud native microservices",
+    "freeform-tags": {},
+    "id": "ocid1.compartment.oc1….",
+    "inactive-status": null,
+    "is-accessible": null,
+    "lifecycle-state": "ACTIVE",
+    "name": "cloud-native-microservices",
+    "time-created": "2019-06-20T17:17:11.410000+00:00"
+  },
+  "etag": "30a1041f2265d4dc73e6b5d215fbe0567878671a"
+}
